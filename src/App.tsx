@@ -1,6 +1,6 @@
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import { Title } from './components/Title'
+import { Title } from './components/title'
 import Post from './components/post'
 import './App.css'
 
